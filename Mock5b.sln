@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mock5b", "Mock5b\Mock5b.csproj", "{46943587-AEE8-42A3-8983-93DD07B53577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46943587-AEE8-42A3-8983-93DD07B53577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46943587-AEE8-42A3-8983-93DD07B53577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46943587-AEE8-42A3-8983-93DD07B53577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46943587-AEE8-42A3-8983-93DD07B53577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13045A0B-9F5F-4238-B88A-559996F0D644}
+	EndGlobalSection
+EndGlobal
